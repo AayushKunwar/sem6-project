@@ -1,0 +1,41 @@
+:root {
+	--light-border-color: #4a4a4a;
+	--light-border-hover-color: #959595;
+	--light-background-color: #e6e6e6;
+	--light-highlighted-background-color: #f5f5f5;
+	--light-text-color: #000000;
+	--light-danger-color: #f14668;
+	--light-danger-text-color: #fff;
+	--light-danger-hover-color: #f03a5f;
+	--light-success-color: #10ab46;
+	--light-success-text-color: #000000;
+	--light-success-hover-color: #3ec46d;
+	--light-danger-text-background-color: #fde0e6;
+	--light-success-text-background-color: #effaf3;
+	--light-code-text-color: #f14668;
+	--light-code-background-color: #f5f5f5;
+	--light-link-color: #1f67dc;
+	--light-link-visited-color: #a03bff;
+	--light-link-hover-color: #363636;
+	--light-link-active-color: #363636;
+}
+table td {
+	border: 1px solid black;
+}
+.jumbo {
+	text-transform: uppercase;
+	background-color: black;
+	color: white;
+	padding: 3rem;
+	text-align: justify;
+	line-height: 1.5;
+}
+.orange {
+	color: orange;
+}
+.blue {
+	color: rgb(145, 145, 255);
+}
+.fooColor {
+	color: #10ab46;
+}
